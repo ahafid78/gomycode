@@ -1,0 +1,8 @@
+initialisation 
+git init
+git remote add origin (le lien de github)
+
+
+git add .
+git commit -m 'commentaire sur les modifs'
+git push origin master
